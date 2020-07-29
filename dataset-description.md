@@ -1,0 +1,1 @@
+This release contains information on smoothed U.S. recession probabilities. The probabilities are obtained from dynamic-factor markov-switching model and consists of four variables: non-farm payroll employment, the index of industrial production, real personal income excluding transfer payments, and real manufacturing and trade sales.
