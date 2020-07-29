@@ -20,7 +20,7 @@ This resource is presented in both the XLS and CSV formats. The included dataset
 
 `DATE, RECPROUSM156N`
 
-The `RECPROUSM156N` column represents the amount of employees in the U.S. at the time of the corresponding `date`.  
+The `RECPROUSM156N` column represents the smoothed probability of a recession in the U.S. at the time of the corresponding `DATE`.  
 
 
 ## More Information
